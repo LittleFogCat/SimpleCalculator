@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="update">
+        V2.0\n    The original version.\n
+        V2.1.0\n    Fix a lot bugs.\n
+        V2.2.0\n    Optimum interface.\n    Add changelog.\n    Add Chinese app name.\n
+        V2.2.1\n    Fix the problem happens when inputting operators after √.\n    Fix the problem happens if the divisor is negative.\n
+    </string>
+    <string name="intro">this is a simple calculator</string>
+    <string name="simp_intro">this is a simple calculator</string>
+</resources>

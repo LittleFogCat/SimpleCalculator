@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计算器v2.2.1</string>
+
+
+    <string name="update">
+        V2.0\n    第二代计算器最初版本\n
+        V2.1.0\n    修复大量bug.\n
+        V2.2.0\n    优化了界面.\n    添加了更新说明.\n    添加了中文名.\n
+        V2.2.1\n    修复了在√之后输入运算符号会导致出错的问题.\n    修复了除数为负数会导致不能计算的问题.\n
+    </string>
+    <string name="intro">
+        lfc迷你计算器v2.2是Android平台上一款简单、易懂、好用、小体积的计算器小工具，功能完全覆盖了日常需求。
+在lfc迷你计算器v1的基础上，lfc迷你计算器v2支持输入长算术式的功能，支持最多输入1000条数字的长算术式，并且具有自动改正、提示错误的功能。在计算结果出来之后仍然保存算术式，方便查看。lfc迷你计算器v2.2以此为起点，优化了界面，使其更加简洁美观，修复了开方运算可能导致出错等问题。
+代码遵循Apache v2 License开源协议，主要供学习交流使用。
+    </string>
+    <string name="simp_intro">
+        一款简单、好用、易懂的迷你计算器
+    </string>
+</resources>
